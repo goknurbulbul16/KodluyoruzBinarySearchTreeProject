@@ -96,7 +96,7 @@
 
 ![kodluyourz](/img/kodluyoruz.png)
 
-----------------------------------------
+---------------------------------------------------------
 
 [MIT](https://choosealicense.com/licenses/mit/)
  
